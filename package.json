@@ -1,0 +1,24 @@
+{
+  "name": "nft_contracts",
+  "version": "0.0.1",
+  "description": "Collection and deployement of Smart Contracts NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziirofan/NFT_contracts.git"
+  },
+  "author": "Matthieu Viera Santa Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ziirofan/NFT_contracts/issues"
+  },
+  "homepage": "https://github.com/Ziirofan/NFT_contracts#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "truffle": "^5.3.10",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
